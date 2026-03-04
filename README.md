@@ -11,6 +11,8 @@ Take a closer look to the result Cost Layer in this online demo.
 
 🌎 [Cost Layer online demo](https://bryanvallejo16.github.io/CostLayer-GeoCubesFI/)
 
+![demo](img/CostLayerDemo.gif)
+
 ## Data
 
 the data was gathered from the [GeoCubes Finland](https://vm0160.kaj.pouta.csc.fi/geocubesclient/). A servive for remote sensing data in Finland. Also, from OpenStreetMap.
@@ -49,7 +51,7 @@ The Cost Layer shows the "cost of mobility" based on terrain. The cost is normal
 
 ## Reference
 
-This Task was done by Bryan R. Vallejo. A practical test for understading how Cost Layer works for terrain analysis.
+This Task was done by Bryan R. Vallejo. A practical test for understading how Cost Layer works in terrain analysis.
 
 
 
