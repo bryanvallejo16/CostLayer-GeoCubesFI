@@ -9,11 +9,11 @@ For this task layers like Terrain, Land Use, Environment, and Roads will be used
 
 Take a closer look to the result Cost Layer in this online demo.
 
-[🌎 Cost Layer online demo]()
+🌎 [Cost Layer online demo](https://bryanvallejo16.github.io/CostLayer-GeoCubesFI/)
 
 ## Data
 
-the data was gathered from the [🌎 GeoCubes Finland](https://vm0160.kaj.pouta.csc.fi/geocubesclient/). A servive for remote sensing data in Finland. Also, from OpenStreetMap.
+the data was gathered from the [GeoCubes Finland](https://vm0160.kaj.pouta.csc.fi/geocubesclient/). A servive for remote sensing data in Finland. Also, from OpenStreetMap.
 
 - Slope 10m 2022
 - Deep-to-water index 16m 2023*
